@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image 1</title>
+</head>
+<body>
+
+  <h1>Image 1 (1920 × 1080)</h1>
+
+  <img src="image1.jpg" alt="Edited Image 1" width="800">
+
+  <p>
+    <a href="image2.html">Go to Image 2</a>
+  </p>
+
+  <p>
+    <a href="homework2.html">Back to Homework 2</a>
+  </p>
+
+</body>
+</html>
