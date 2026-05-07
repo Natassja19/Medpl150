@@ -1,0 +1,28 @@
+<html>
+<head>
+  <title>Protect Reputation</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <h1>Protect Reputation</h1>
+
+  <img src="images/phone.jpg" width="600">
+
+  <p>
+    Rumors online claim you copied another designer.
+    Fashion bloggers begin posting about the scandal.
+  </p>
+
+  <h2>How do you respond?</h2>
+
+  <a href="runwaynight.html">Defend Yourself Online</a>
+
+  <br><br>
+
+  <a href="ending_burnout.html">Stay Silent</a>
+
+</body>
+</html>
